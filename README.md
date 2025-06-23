@@ -1,5 +1,7 @@
 # Render Compose
 
+> **Note**: This project is not affiliated with, endorsed by, or sponsored by Render Services Inc. Render and render.yaml are trademarks of Render Services Inc.
+
 **Infrastructure as Code for Render.com with Go**
 
 Render Compose is a Go library that lets you build, organize, and compose [Render Blueprint](https://render.com/docs/infrastructure-as-code) infrastructure using type-safe Go code instead of massive YAML files.
