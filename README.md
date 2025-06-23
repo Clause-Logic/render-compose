@@ -1,6 +1,6 @@
 # Render Compose
 
-> **Note**: This project is not affiliated with, endorsed by, or sponsored by Render Services Inc. Render and render.yaml are trademarks of Render Services Inc.
+> **Note**: This project is not affiliated with, endorsed by, or sponsored by Render Services Inc.
 
 **Infrastructure as Code for Render.com with Go**
 
